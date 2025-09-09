@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:dilwar.hussain.adtu@gmail.com"><img src="https://img.shields.io/badge/Email-dilwar.hussain.adtu%40gmail.com-red?logo=gmail&style=for-the-badge" alt="Email"></a>
   <a href="https://www.linkedin.com/in/dilwar-hussain-386368199/"><img src="https://img.shields.io/badge/LinkedIn-Dilwar%20Hussain-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-@dilwarhussain21-black?logo=github&style=for-the-badge" alt="GitHub"></a>
+  <a href="https://github.com/dilwarhussain21"><img src="https://img.shields.io/badge/GitHub-@dilwarhussain21-black?logo=github&style=for-the-badge" alt="GitHub"></a>
 </p>
 
 ---
